@@ -65,4 +65,5 @@ int main()
             }
         }
     }
+    fclose (fp);
 }
